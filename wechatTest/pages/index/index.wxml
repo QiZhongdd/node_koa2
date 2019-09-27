@@ -1,0 +1,11 @@
+<l-button size='long' bind:lintap='getToken'>获取token</l-button>
+<l-button size='long' bind:lintap='vertifyToken'>验证token</l-button>
+<l-button size='long' bind:lintap='getLatest'>获取最新的期刊</l-button>
+<l-button size='long' bind:lintap='like'>点赞</l-button>
+<l-button size='long' bind:lintap='cancelLike'>取消点赞</l-button>
+<l-button size='long' bind:lintap='getLikeNum'>获取点赞数量</l-button>
+<l-button size='long' bind:lintap='getLikeList'>获取点赞过的期刊</l-button>
+<l-button size='long' bind:lintap='getAll'>获取所有书籍的点赞数量</l-button>
+<l-button size='long' bind:lintap='getBookDetail'>获取书籍的详情</l-button>
+<l-button size='long' bind:lintap='searchBook'>搜索书籍</l-button>
+<l-button size='long' bind:lintap='commentBook'>短评</l-button>

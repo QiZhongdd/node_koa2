@@ -1,0 +1,27 @@
+{
+  "name": "node_koa",
+  "version": "1.0.0",
+  "description": "练习ko akoa",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "basic-auth": "^2.0.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.8.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "lin-ui": "^0.6.4",
+    "lodash": "^4.17.11",
+    "mysql2": "^1.7.0",
+    "require-directory": "^2.1.1",
+    "sequelize": "^5.19.0",
+    "validator": "^10.11.0"
+  }
+}
